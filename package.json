@@ -10,6 +10,7 @@
   "repository": {
     "url": "https://github.com/ggolfz/ggolfz-extension"
   },
+  "icon": "logo.png",
   "categories": [
     "Other"
   ],
