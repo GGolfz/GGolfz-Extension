@@ -1,10 +1,14 @@
 {
   "name": "ggolfz",
   "displayName": "ggolfz",
-  "description": "",
+  "description": "ggolfz extension",
+  "publisher": "ggolfz",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.53.0"
+  },
+  "repository": {
+    "url": "https://github.com/ggolfz/ggolfz-extension"
   },
   "categories": [
     "Other"
