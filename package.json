@@ -34,6 +34,20 @@
         "command": "ggolfz.space",
         "title": "GGolfz: S P A C E I T"
       }
+    ],
+    "keybindings":[
+      {
+        "command": "ggolfz.space",
+        "key": "cmd+shift+space",
+        "mac": "cmd+shift+space",
+        "win": "ctrl+shift+space"
+      },
+      {
+        "command": "ggolfz.sayit",
+        "key": "cmd+shift+a+s",
+        "mac": "cmd+shift+a+s",
+        "win": "ctrl+shift+a+s"
+      }
     ]
   },
   "scripts": {
