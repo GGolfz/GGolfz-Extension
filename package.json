@@ -44,9 +44,9 @@
       },
       {
         "command": "ggolfz.sayit",
-        "key": "cmd+shift+a+s",
-        "mac": "cmd+shift+a+s",
-        "win": "ctrl+shift+a+s"
+        "key": "cmd+shift+a",
+        "mac": "cmd+shift+a",
+        "win": "ctrl+shift+a"
       }
     ]
   },
