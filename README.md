@@ -11,3 +11,5 @@ Initial release of ggolfz-extension with say it and space it
 Add Initial Activate & Key Binding
 ### 0.0.3
 Fix Keybinding of say it cannot be use.
+### 0.0.4
+Add Touchbar Shortcut with icon for space it
