@@ -9,3 +9,5 @@ It will space your selection text and copy to clipboard.
 Initial release of ggolfz-extension with say it and space it
 ### 0.0.2
 Add Initial Activate & Key Binding
+### 0.0.3
+Fix Keybinding of say it cannot be use.
