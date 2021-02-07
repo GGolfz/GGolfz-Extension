@@ -32,10 +32,21 @@
       },
       {
         "command": "ggolfz.space",
-        "title": "GGolfz: S P A C E I T"
+        "title": "GGolfz: S P A C E I T",
+        "icon": {
+          "dark": "icon/dark-space.png",
+          "light": "icon/light-space.png"
+        }
       }
     ],
-    "keybindings":[
+    "menus": {
+      "touchBar": [
+        {
+          "command": "ggolfz.space"
+        }
+      ]
+    },
+    "keybindings": [
       {
         "command": "ggolfz.space",
         "key": "cmd+shift+space",
