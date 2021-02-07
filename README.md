@@ -7,5 +7,5 @@ It will space your selection text and copy to clipboard.
 ## Extension Release Notes
 ### 0.0.1
 Initial release of ggolfz-extension with say it and space it
-### 0.0.1+1
+### 0.0.2
 Add Initial Activate & Key Binding
