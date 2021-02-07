@@ -13,3 +13,5 @@ Add Initial Activate & Key Binding
 Fix Keybinding of say it cannot be use.
 ### 0.0.4
 Add Touchbar Shortcut with icon for space it
+### 0.0.5
+Add Default Activate 
