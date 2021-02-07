@@ -15,6 +15,7 @@
     "Other"
   ],
   "activationEvents": [
+    "*",
     "workspaceContains:**/*.md",
     "workspaceContains:**/*.txt",
     "onCommand:ggolfz.activate"
