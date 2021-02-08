@@ -38,12 +38,37 @@
           "dark": "icon/dark-space.png",
           "light": "icon/light-space.png"
         }
+      },
+      {
+        "command": "ggolfz.uppercase",
+        "title": "GGolfz: UPPERCASE",
+        "icon": {
+          "dark": "icon/dark-upper.png",
+          "light": "icon/light-upper.png"
+        }
+      },
+      {
+        "command": "ggolfz.lowercase",
+        "title": "GGolfz: lowercase",
+        "icon": {
+          "dark": "icon/dark-lower.png",
+          "light": "icon/light-lower.png"
+        }
       }
     ],
     "menus": {
       "touchBar": [
         {
-          "command": "ggolfz.space"
+          "command": "ggolfz.space",
+          "group": "util@1"
+        },
+        {
+          "command": "ggolfz.uppercase",
+          "group": "util@2"
+        },
+        {
+          "command": "ggolfz.lowercase",
+          "group": "util@3"
         }
       ]
     },
