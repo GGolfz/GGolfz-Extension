@@ -15,3 +15,5 @@ Fix Keybinding of say it cannot be use.
 Add Touchbar Shortcut with icon for space it
 ### 0.0.5
 Add Default Activate 
+### 0.0.6
+Add UPPERCASE and lowercase command
